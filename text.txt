@@ -1,0 +1,11 @@
+                        App
+    Header            Showcase          Footer
+Logo  Nav Setings    Image   Text      Logo   Nav
+            Theme
+        
+
+
+
+
+            Redux
+        Light   Dark
