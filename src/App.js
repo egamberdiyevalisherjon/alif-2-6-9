@@ -1,11 +1,9 @@
-import Cart from "./components/Cart";
-import Products from "./components/Products";
+import Header from "./Components/Header/Header";
 
 function App() {
   return (
     <div className="App">
-      <Cart />
-      <Products />
+      <Header />
     </div>
   );
 }
