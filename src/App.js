@@ -1,9 +1,12 @@
-import Header from "./Components/Header/Header";
+// import Showcase from "./Components/Showcase/Showcase";
+import Nested from "./Components/Nested";
+import Showcase from "./Components/Showcase/Showcase";
 
 function App() {
   return (
     <div className="App">
-      <Header />
+      <Showcase />
+      <Nested />
     </div>
   );
 }
